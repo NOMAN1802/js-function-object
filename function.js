@@ -1,4 +1,4 @@
-// decleare a function 
+// declare a function 
 function startFan(){
     console.log('Stand up');
     console.log('walk toward the switch');

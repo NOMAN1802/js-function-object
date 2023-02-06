@@ -3,7 +3,7 @@ function bringSingara(money){
     console.log('ai nen singara');
     
 }
-var taka = 300
+var taka = 300;
 // bringSingara(taka);
 function add(num1, num2){
     console.log('going to add:', num1 , num2);
